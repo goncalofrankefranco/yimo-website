@@ -25,6 +25,7 @@
       </div>
       <div class="nav-right">
         <nuxt-link to="/chapters" class="nav-link nav-chapters">Chapters</nuxt-link>
+        <a href="https://graphwar.yimo-official.org" class="nav-link">Graphwar</a>
         <nuxt-link to="/archive" class="nav-link nav-archive">Archive</nuxt-link>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSeLKMy5cPHpOFhFUc8fukPBjMiJHl35aB3u7rkClPTw_VziVg/viewform" target="_blank" rel="noopener" class="nav-register">Register</a>
       </div>
